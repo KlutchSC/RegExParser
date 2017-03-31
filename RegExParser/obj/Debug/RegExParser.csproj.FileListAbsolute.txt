@@ -1,0 +1,9 @@
+c:\users\jdand\documents\visual studio 2015\Projects\RegExParser\RegExParser\bin\Debug\RegExParser.exe.config
+c:\users\jdand\documents\visual studio 2015\Projects\RegExParser\RegExParser\bin\Debug\RegExParser.exe
+c:\users\jdand\documents\visual studio 2015\Projects\RegExParser\RegExParser\bin\Debug\RegExParser.pdb
+c:\users\jdand\documents\visual studio 2015\Projects\RegExParser\RegExParser\obj\Debug\RegExParser.csprojResolveAssemblyReference.cache
+c:\users\jdand\documents\visual studio 2015\Projects\RegExParser\RegExParser\obj\Debug\RegExParser.MainForm.resources
+c:\users\jdand\documents\visual studio 2015\Projects\RegExParser\RegExParser\obj\Debug\RegExParser.Properties.Resources.resources
+c:\users\jdand\documents\visual studio 2015\Projects\RegExParser\RegExParser\obj\Debug\RegExParser.csproj.GenerateResource.Cache
+c:\users\jdand\documents\visual studio 2015\Projects\RegExParser\RegExParser\obj\Debug\RegExParser.exe
+c:\users\jdand\documents\visual studio 2015\Projects\RegExParser\RegExParser\obj\Debug\RegExParser.pdb
